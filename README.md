@@ -1,41 +1,54 @@
-# Olá! Eu sou Natan Cardeal 👋
+# 👋 Olá! Eu sou Natan Cardeal
 
-### 💡 Estudante de Programação com foco em inovação.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC de Ribeirão Preto.
 
-Sou um **desenvolvedor responsável** em formação, com uma base sólida em lógica e algoritmos adquirida através da programação em C e C++. Atualmente, estou expandindo minhas habilidades para o universo web com JavaScript, buscando desenvolver soluções **criativas e inovadoras** de alto impacto.
-
----
-
-### 💻 Minhas Habilidades Técnicas
-
-| Linguagens Base | Foco de Expansão | Ferramentas |
-| :---: | :---: | :---: |
-| C, C++ | JavaScript (Básico), HTML/CSS | Git, GitHub, VS Code |
-
-### 🚀 O que estou fazendo agora
-
-- 📚 **Estudando:** Análise e Desenvolvimento de Sistemas (ADS) na FATEC.
-- 🔭 **Projetos:** Focado em aplicar C++ para estruturas de dados avançadas e construir um portfólio web, como meu **Mapa Interativo** (demonstração de JS).
-- 👯 **Colaboração:** Aberto(a) a projetos de código aberto que me desafiem a aprender mais sobre arquitetura de software.
+💻 Desenvolvedor em formação, interessado em Desenvolvimento Web, Análise de Dados e criação de soluções utilizando tecnologia.
 
 ---
 
-### 📬 Conecte-se Comigo
+## 💻 Tecnologias
 
-LinkedIn: [Natan Fernando](https://www.linkedin.com/in/natan-fernando-18b264384/) 
+**Linguagens:** C, C++, JavaScript, SQL
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:natancardeal1506@gmail.com)
-<!--
-**MrNemo31/MrNemo31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web:** HTML, CSS, React, Next.js, Tailwind CSS
 
-Here are some ideas to get you started:
+**Ferramentas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎨 LiteArt
+
+Plataforma de estudos que utiliza Inteligência Artificial para oferecer feedbacks personalizados aos usuários.
+
+Atualmente em desenvolvimento como MVP, com foco em IA, análise de desempenho, organização de estudos e banco de dados PostgreSQL.
+
+🔗 [Documentação e planejamento — Miro](https://miro.com/app/board/uXjVH3-xMjs=/?share_link_id=589467137863)
+
+---
+
+### 🖥️ Academy Out — Projeto Front-End
+
+Projeto desenvolvido durante o **Academy Out da CCM**, utilizando Next.js e Tailwind CSS.
+
+O projeto teve como foco a prática de desenvolvimento de interfaces web, componentização, responsividade e organização de páginas.
+
+🔗 [Repositório](https://github.com/MrNemo31/academy-out-nextjs)
+
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript e React
+- Next.js
+- SQL e Análise de Dados
+- Desenvolvimento Web
+
+---
+
+## 📫 Contato
+
+🔗 [LinkedIn](www.linkedin.com/in/natan-fernando)
+
+📧 natancardeal1506@gmail.com
