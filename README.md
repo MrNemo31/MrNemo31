@@ -144,26 +144,15 @@ Atualmente estou trabalhando na definição dos requisitos, arquitetura, protót
 <div align="center">
 
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MrNemo31&show_icons=true&hide_border=true&bg_color=000000&title_color=C65A16&icon_color=C65A16&text_color=FFFFFF&include_all_commits=true&count_private=true"
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api?username=MrNemo31&show_icons=true&theme=dark&hide_border=true&title_color=C65A16&icon_color=C65A16"
     alt="GitHub Stats"
   />
 
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemo31&layout=compact&hide_border=true&bg_color=000000&title_color=C65A16&text_color=FFFFFF&langs_count=8"
+    height="170em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemo31&layout=compact&theme=dark&hide_border=true&title_color=C65A16"
     alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=MrNemo31&theme=dark&hide_border=true&background=000000&ring=C65A16&fire=C65A16&currStreakLabel=C65A16"
-    alt="GitHub Streak"
   />
 
 </div>
@@ -175,40 +164,12 @@ Atualmente estou trabalhando na definição dos requisitos, arquitetura, protót
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MrNemo31&bg_color=000000&color=FFFFFF&line=C65A16&point=C65A16&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MrNemo31&theme=github-dark&hide_border=true&area=true"
     width="95%"
     alt="GitHub Activity Graph"
   />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MrNemo31&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/MrNemo31/MrNemo31/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-
-</div>
-
-> A animação acima é gerada automaticamente por uma **GitHub Action** configurada no repositório do perfil.
 
 ---
 
@@ -233,15 +194,3 @@ Atualmente estou trabalhando na definição dos requisitos, arquitetura, protót
 </div>
 
 ---
-
-<div align="center">
-
-  <h3>💡 Construindo, aprendendo e evoluindo.</h3>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:C65A16,50:24140D,100:000000&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-
-</div>
