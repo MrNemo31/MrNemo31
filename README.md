@@ -19,12 +19,7 @@
   </a>
 
   <br>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=MrNemo31&label=Profile%20Views&color=C65A16&style=flat-square"
-    alt="Profile views"
-  />
-
+  
 </div>
 
 ---
