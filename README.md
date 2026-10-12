@@ -207,24 +207,13 @@ Meu foco é fortalecer a base necessária para trabalhar com análise de dados:
 ---
 
 <details>
-  <summary><strong>📊 Estatísticas do GitHub</strong></summary>
+<summary><strong>📊 Estatísticas do GitHub</strong></summary>
 
-  <br>
+<br>
 
-  <div align="center">
-
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=MrNemo31&show_icons=true&theme=dark&hide_border=true&title_color=C65A16&icon_color=C65A16"
-      alt="Estatísticas públicas do GitHub de MrNemo31"
-    />
-
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemo31&layout=compact&theme=dark&hide_border=true&title_color=C65A16"
-      alt="Distribuição das linguagens nos repositórios considerados pelo serviço"
-    />
-
-  </div>
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrNemo31&show_icons=true&theme=dark&hide_border=true&title_color=C65A16&icon_color=C65A16" alt="Estatísticas do GitHub de MrNemo31" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNemo31&layout=compact&theme=dark&hide_border=true&title_color=C65A16" alt="Linguagens utilizadas nos repositórios" />
+</div>
 
 </details>
